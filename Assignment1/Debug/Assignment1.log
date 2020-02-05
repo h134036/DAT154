@@ -1,0 +1,16 @@
+﻿  Assignment1.cpp
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(176,27): warning C4477: 'swprintf_s' : format string '%lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(178,27): warning C4477: 'swprintf_s' : format string '%lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(189,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(189,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(189,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(189,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(193,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(193,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(193,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(193,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(197,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(197,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(197,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\selle\source\repos\Assignment1 – litt nytt\Assignment1\Assignment1.cpp(197,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Assignment1.vcxproj -> C:\Users\selle\source\repos\Assignment1 – litt nytt\Debug\Assignment1.exe
